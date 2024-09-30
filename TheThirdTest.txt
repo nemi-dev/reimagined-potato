@@ -1,1 +1,3 @@
 Why cmd in vscode builtin terminal doesn't resolve the name "git"?
+
+Because It's not my sweety home!
